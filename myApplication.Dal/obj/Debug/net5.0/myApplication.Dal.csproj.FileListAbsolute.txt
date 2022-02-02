@@ -1,0 +1,15 @@
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\bin\Debug\net5.0\myApplication.Dal.deps.json
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\bin\Debug\net5.0\myApplication.Dal.runtimeconfig.json
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\bin\Debug\net5.0\myApplication.Dal.runtimeconfig.dev.json
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\bin\Debug\net5.0\myApplication.Dal.dll
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\bin\Debug\net5.0\ref\myApplication.Dal.dll
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\bin\Debug\net5.0\myApplication.Dal.pdb
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\obj\Debug\net5.0\myApplication.Dal.csproj.AssemblyReference.cache
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\obj\Debug\net5.0\myApplication.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\obj\Debug\net5.0\myApplication.Dal.AssemblyInfoInputs.cache
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\obj\Debug\net5.0\myApplication.Dal.AssemblyInfo.cs
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\obj\Debug\net5.0\myApplication.Dal.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\obj\Debug\net5.0\myApplication.Dal.dll
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\obj\Debug\net5.0\ref\myApplication.Dal.dll
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\obj\Debug\net5.0\myApplication.Dal.pdb
+C:\Users\john\Desktop\important\api\myApplication\myApplication.Dal\obj\Debug\net5.0\myApplication.Dal.genruntimeconfig.cache
